@@ -1,0 +1,41 @@
+.benifits-risks .top-header {
+    height: 150px;
+    background-image: url('../images/heading-bg.png');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.benifits-risks .accordion-button {
+    background-color: #FDF4E0;
+    color: #6f2d05;
+    border: 0px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+    line-height: 1.8rem;
+    font-weight: bold;
+    text-align: left;
+}
+
+.benifits-risks .accordion-button:focus {
+    box-shadow: none;
+    border: none;
+    background-color: #ffffff;
+}
+
+.benifits-risks .accordion-item {
+    border: 1px solid #FF5824;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.benifits-risks .accordion-button:hover {
+    background-color: #F27023;
+    color: #fff;
+}
+
+.benifits-risks .accordion-body {
+    color: black;
+    background-color: #F6F8FA;
+    font-size: 1.1rem;
+}
